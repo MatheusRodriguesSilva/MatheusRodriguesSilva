@@ -22,4 +22,4 @@
  ##
  
 </div>
-Gosto de desafios, extremamente motivado e em constante desenvolvimento de minhas habilidades pessoais e profissionais.
+Full stack software engineer. I like challenges, extremely motivated and in constant development of my personal and professional skills.
