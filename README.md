@@ -16,8 +16,6 @@
  
   ### About me 
 
-  ##
-
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MatheusRodriguesSilva)](https://github.com/MatheusRodriguesSilva)
  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511939459423&text=Hello!)](https://api.whatsapp.com/send?phone=5511939459423&text=Hello!)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusrodriguesdasilva23)](https://www.linkedin.com/in/matheusrodriguesdasilva23/)
